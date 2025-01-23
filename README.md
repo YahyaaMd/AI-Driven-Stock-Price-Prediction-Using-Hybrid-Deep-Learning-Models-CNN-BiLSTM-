@@ -1,5 +1,3 @@
-
-
 # AI-Driven Stock Price Prediction Using Hybrid Deep Learning Models (CNN-BiLSTM)
 
 ## Overview
